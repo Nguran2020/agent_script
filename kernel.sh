@@ -10,3 +10,4 @@ lscpu
 lsblk
 cat /proc/memcpu
 uname -r
+cat /etc/os-release
