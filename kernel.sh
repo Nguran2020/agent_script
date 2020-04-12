@@ -8,6 +8,4 @@ fi
 
 lscpu
 lsblk
-cat /proc/memcpu
-uname -r
-cat /etc/os-release
+cat /proc/meminfo
